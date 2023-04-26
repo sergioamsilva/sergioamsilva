@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I consider that my main strengths are resilience, organization and the ability to solve complex problems, I do not like computers, but I believe that somewhere in the future mankind will have the need for overcome machines. Hacking will be the answer, skynet is close. 
+
+I believe that defeating machines is a challenge and that kind of challenge motivates me. 
+
+- 🔭 I’m currently working on AI red teaming
+- 🤔 I’m looking for help with PHP, CAKEPHP, PYTHON, MYSQL, LINUX
