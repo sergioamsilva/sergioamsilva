@@ -20,4 +20,4 @@ I consider that my main strengths are resilience, organization and the ability t
 I believe that defeating machines is a challenge and that kind of challenge motivates me. 
 
 - 🔭 I’m currently working on AI red teaming
-- 🤔 I’m looking for help with PHP, CAKEPHP, PYTHON, MYSQL, LINUX
+- 💬 Ask me about PHP, CAKEPHP, PYTHON, MYSQL, LINUX
